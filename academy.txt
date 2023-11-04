@@ -1,0 +1,4 @@
+fullName : Tran Quang Minh
+mssv:22150346
+class:221405
+NgheNghiep:Sinh vien
